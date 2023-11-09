@@ -1,0 +1,205 @@
+body
+{
+    width: 100%;
+    height: 100vh;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+
+}
+
+.a1
+{
+    background-color: whitesmoke;
+    width: 320px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    align-content: center;
+    align-items: center; 
+    border-bottom: 1px outset rgb(223, 222, 222);  
+    border-radius: 3px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.327);
+ 
+    
+}
+
+.a2
+{
+    background-color: whitesmoke;
+    width: 300px;
+    height: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;   
+    text-align: center;
+    font-size: 11px;
+ 
+}
+
+
+
+.a4
+{
+    background-color: whitesmoke;
+    width: 150px;
+    height: 47px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    align-content: center;
+    align-items: center;   
+     
+}
+
+.a5
+{   
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+}
+
+.a6
+{
+    background-color: whitesmoke;
+    width: 40px;
+    height: 40px;
+    
+}
+
+.x {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    align-content: center;
+    align-items: center;  
+    text-align: center;
+    color: rgba(0, 0, 0, 0.37);
+  }
+  
+  a
+   {
+    text-decoration: none;
+    
+    }
+
+    .f1
+    {
+      width: 100%;
+      height: 550px;
+      display: flex;
+      flex-direction: column;
+        background-image: url(img/fundocampo.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+      justify-items: center;
+      align-content: center;
+      align-items: center; 
+
+  
+      
+ 
+   
+
+    }
+
+    .titulo
+    {
+      width: 400px;
+      height: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      justify-items: center;
+      align-content: center;
+      align-items: center; 
+        margin-top: 10px;
+      font-family: Arial, Helvetica, sans-serif;
+
+
+      color: white;
+
+      font-size: 26px;
+      line-height: 1.6;
+      text-align: justify;
+      text-shadow: 1px 1px 2px rgb(38, 37, 37);
+   
+    }
+
+    .f2
+    {
+        width:360px;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        justify-items: center;
+        align-content: center;
+        align-items: center; 
+        
+
+     
+    }
+
+    .f3
+    {
+        /*width: 80px;*/
+        /*height: 130px;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        justify-items: center;
+        align-content: center;
+        align-items: center; 
+        font-size: 22px;
+        line-height: 1.6;
+        text-align: justify;
+        text-shadow: 1px 1px 2px rgb(38, 37, 37);
+        color: white;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .f33
+    {
+        width: 180px;
+        height: 30px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        justify-items: center;
+        align-content: center;
+        align-items: center; 
+
+        font-size: 12px;
+        line-height: 1.6;
+        text-align: justify;
+        text-shadow: 1px 1px 2px rgb(38, 37, 37);
+        color: white;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-ser
+    }
+
+    .row
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        justify-items: center;
+        align-content: center;
+        align-items: center; 
+    }
+    
+ 
